@@ -1,2 +1,1 @@
-# leet-code
-Meu treino e exercícios do leet code.
+# My leet code practice.
